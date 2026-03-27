@@ -1,0 +1,1 @@
+I created a folder named "THECODECRAFTERTHON-DAY1", and i open a file under the folder name "main.go" where i implemented my code, In golang i am expected to run my program with the command line interface (CLI) "go run" with the name of the file which is given to you, so i now use the command line which is "go run" with the name of my file "main.go" to execute my program.
